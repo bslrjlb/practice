@@ -1,0 +1,7 @@
+setup.py
+derivative/__init__.py
+derivative/derivatice.py
+derivatives.egg-info/PKG-INFO
+derivatives.egg-info/SOURCES.txt
+derivatives.egg-info/dependency_links.txt
+derivatives.egg-info/top_level.txt
